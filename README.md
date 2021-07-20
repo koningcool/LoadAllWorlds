@@ -7,6 +7,9 @@
 For all the badges click [Here](https://github.com/koningcool/LoadAllWorlds/blob/master/shields-badges.md)
 
 
+If you use minecraft java: please check out my other plugins!: https://github.com/koningcool/blockwalk
+
+
 # General
 This is a plugin that adds commands to load worlds, and can be configured to load worlds on startup.
 
